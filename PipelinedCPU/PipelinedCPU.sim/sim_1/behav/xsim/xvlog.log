@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mzlinux/Downloads/Pipelined-CPU-main/MichalZdanowiczFinalProjectPart1/MichalZdanowiczFinalProjectPart1.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ProgramCounter
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-311] analyzing module PcAdder
+INFO: [VRFC 10-311] analyzing module IfidPiplineRegister
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-311] analyzing module ForwardingMuxA
+INFO: [VRFC 10-311] analyzing module ForwardingMuxB
+INFO: [VRFC 10-311] analyzing module RegrtMultiplexer
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module ImmediateExtender
+INFO: [VRFC 10-311] analyzing module IdexePipelineRegister
+INFO: [VRFC 10-311] analyzing module ALUMux
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module EXEMEMPipelineRegister
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-311] analyzing module MEMWBPipelineRegister
+INFO: [VRFC 10-311] analyzing module WbMux
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mzlinux/Downloads/Pipelined-CPU-main/MichalZdanowiczFinalProjectPart1/MichalZdanowiczFinalProjectPart1.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
