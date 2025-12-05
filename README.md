@@ -69,7 +69,7 @@ This project was developed using:
 
 ---
 ## Waveform Example
-![[Pasted image 20251205131055.png]]
+![Waveform of pipelined CPU](images/waveform.png.png)
 Figure 1: Waveform of example instructions in MIPS:
 ```mips
 25: add $3, $1, $2
