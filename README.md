@@ -68,6 +68,7 @@ This project was developed using:
 3. Maximize Simulation window, set the timescale accordingly, and step to first cycle.
 
 ---
+## Waveform Example
 ![Waveform of pipelined CPU](images/Screenshot%20from%202025-12-05%2013-10-54.png)
 
 Figure 1: Waveform of example instructions in MIPS:
