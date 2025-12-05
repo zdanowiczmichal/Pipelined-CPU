@@ -69,6 +69,7 @@ This project was developed using:
 
 ---
 ![Waveform of pipelined CPU](images/Screenshot%20from%202025-12-05%2013-10-54.png)
+
 Figure 1: Waveform of example instructions in MIPS:
 ```mips
 25: add $3, $1, $2
